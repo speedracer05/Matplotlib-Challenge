@@ -9,7 +9,7 @@ This repository contains a .ipynb file analyzing data from a fictional pharmaceu
 
 <b> Project Discription </b>: Using clinical trial data on 250 mice that were treated with a 
 
-# Technologies
+## Technologies
 ```python
 # Dependencies
 import pandas as pd
