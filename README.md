@@ -11,11 +11,17 @@ This repository contains a .ipynb file analyzing data from a fictional pharmaceu
 
 ## Technologies
 ```python
-# Dependencies
-import pandas as pd
-import numpy as np
+# Dependencies & Setup
 import matplotlib.pyplot as plt
-from scipy.stats import sem
+from matplotlib.pyplot import figure
+import pandas as pd
+import dataframe_image as dfi
+from scipy.stats import pearsonr
+from scipy.stats import linregress
+import numpy as np
+from IPython import display
+from jupyterthemes import jtplot
+jtplot.style()
 ```
 "
 
