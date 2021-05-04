@@ -1,2 +1,2 @@
 # Matplotlib-Challenge
-<img src='sum_stats.png'>
+![summary statistics](Images/sum_stats.png)"Summary Statistics"
