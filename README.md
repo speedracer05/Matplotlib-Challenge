@@ -1,6 +1,7 @@
 # Introduction
-This repository contains a .ipynb file analyzing data from a fictional pharmaceutical company. The data was loaded into the jupyter notebook using the pandas Python library. Pandas was also used to format the data into different dataframes to be used to create various data visualizations. The following visualizations were made using Matplotlib to understand fictional cancer study data.
+This repository contains an .ipynb file that analyzing two datasets, as part of UC Davis's Data Analytics bootcamp. The purpose of the excercise is to assess the drug therapies efficacies against cancer. Analysis was conducted using jupyter notebook, and several Python modules to manipulate the data and create various data visualizations from which observations and insights could be derived.
 -------------------------
+
 
 ## Table of contents
 * [General info](#general-info)
