@@ -1,0 +1,26 @@
+Mouse ID,Timepoint,Drug Regimen,Sex,Age_months,Weight (g),Tumor Volume (mm3),Metastatic Sites
+b128,45,Capomulin,Female,9,22,38.98287774,2
+b742,45,Capomulin,Male,7,21,38.93963263,0
+f966,20,Capomulin,Male,16,17,30.48598484,0
+g288,45,Capomulin,Male,3,19,37.07402422,1
+g316,45,Capomulin,Female,22,22,40.1592203,2
+i557,45,Capomulin,Female,1,24,47.68596303,1
+i738,45,Capomulin,Female,23,20,37.31184577,2
+j119,45,Capomulin,Female,7,23,38.125164399999996,1
+j246,35,Capomulin,Female,21,21,38.75326548,1
+l509,45,Capomulin,Male,17,21,41.48300765,3
+l897,45,Capomulin,Male,17,19,38.84687569,1
+m601,45,Capomulin,Male,22,17,28.43096411,1
+m957,45,Capomulin,Female,3,19,33.32909778,1
+r157,15,Capomulin,Male,22,25,46.53920617,0
+r554,45,Capomulin,Female,8,17,32.37735684,3
+r944,45,Capomulin,Male,12,25,41.58152074,2
+s185,45,Capomulin,Female,3,17,23.34359787,1
+s710,45,Capomulin,Female,1,23,40.72857787,1
+t565,45,Capomulin,Female,20,17,34.45529799,0
+u364,45,Capomulin,Male,18,17,31.02392294,3
+v923,45,Capomulin,Female,19,21,40.65812366,2
+w150,10,Capomulin,Male,23,23,39.95234669,0
+w914,45,Capomulin,Male,24,21,36.04104736,2
+x401,45,Capomulin,Female,16,15,28.48403281,0
+y793,45,Capomulin,Male,17,17,31.896238399999998,2
