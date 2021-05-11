@@ -10,7 +10,7 @@ This repository is an assignment from UC Davis's Data Analytics bootcamp. It con
 <b> Project Discription </b>: Using clinical trial data on 250 mice that were treated with a 
 
 ## General Information
-The data is from a study of 250 mice with Squamous cell carcinoma (SCC) growth. The mice were treated with various drug regimens over the course of 45 days. The purpose of the study is determine therapies efficacy in lowering the growth rate. 
+The data is from clinical trial data on 250 mice with Squamous cell carcinoma (SCC) growth. The mice were treated with various drug regimens over the course of 45 days. The purpose of the study is determine therapies efficacy in lowering the growth rate. 
 
 
 ## Technologies
