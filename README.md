@@ -35,5 +35,14 @@ cd Pymaceuticals
 jupyter notebook 
 ```
 
+## Built With
+* Jupyter notebook Code Version: 6.0.3
+Chrome: 87.0.4280.141
+Node.js: 12.18.3
+OS: Windows_NT x64 10.0.19042
+* conda 4.10.0
+* Python 3.6.10 Anaconda, Inc.
+* Kite Pro Version: 1.2021.310.0
 
-![summary statistics](Images/sum_stats.png)
+## Author
+John Chan
