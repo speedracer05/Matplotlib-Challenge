@@ -20,13 +20,11 @@ This repository is an assignment from UC Davis's Data Analytics bootcamp. It con
 import matplotlib.pyplot as plt
 from matplotlib.pyplot import figure
 import pandas as pd
+import numpy as np
 from scipy.stats import pearsonr
 from scipy.stats import linregress
-import numpy as np
-from IPython import display
 import dataframe_image as dfi
-from jupyterthemes import jtplot
-jtplot.style()
+from pandas import DataFrame
 ```
 
 
