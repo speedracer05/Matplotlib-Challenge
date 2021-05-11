@@ -36,4 +36,4 @@ jupyter notebook
 ```
 
 
-<img><src![summary statistics](Images/sum_stats.png)width=""250' Height="250">
+![summary statistics](Images/sum_stats.png)
