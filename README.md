@@ -36,4 +36,4 @@ jupyter notebook
 ```
 
 
-![summary statistics](Images/sum_stats.png)
+![summary statistics](Images/sum_stats.png)width=""250' Height="250"
