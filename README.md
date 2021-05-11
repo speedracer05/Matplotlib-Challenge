@@ -36,4 +36,4 @@ jupyter notebook
 ```
 
 
-![summary statistics](Images/sum_stats.png)"Summary Statistics
+![summary statistics](Images/sum_stats.png)
