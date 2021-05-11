@@ -7,7 +7,7 @@ This repository is an assignment from UC Davis's Data Analytics bootcamp. It con
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-<b> Project Discription </b>: Using clinical trial data on 250 mice that were treated with a 
+<b> Project Discription </b>: Generate all of the tables and figures needed to produce a technical report of the study. 
 
 ## General Information
 The data is from clinical trial data on 250 mice with Squamous cell carcinoma (SCC) growth. The mice were treated with various drug regimens over the course of 45 days. The purpose of the study is determine therapies efficacy in lowering the growth rate. 
