@@ -1,7 +1,6 @@
 # Introduction
-This repository is an assignment from UC Davis's Data Analytics bootcamp. It contains an .ipynb file that analyzes two datasets. The purpose of the excercise is to assess various drug therapies efficacies against cancer. Analysis was conducted using jupyter notebook, and several Python modules to manipulate the data and create various data visualizations from which observations and insights could be derived.
--------------------------
 
+This repository is an assignment from UC Davis's Data Analytics bootcamp. It contains an .ipynb file that analyzes two datasets. The purpose of the excercise is to assess various drug therapies efficacies against cancer. Analysis was conducted using jupyter notebook, and several Python modules to manipulate the data and create various data visualizations from which observations and insights could be derived.
 
 ## Table of contents
 * [General info](#general-info)
